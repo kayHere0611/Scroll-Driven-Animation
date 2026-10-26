@@ -5,3 +5,5 @@ Two modes available:
 -> Stealth Mode
 
 Car moves on a slight curve path revealing 3 Car Telemetrics Cards.
+
+Live Demo: https://scroll-drivenanimation.vercel.app/
